@@ -1,0 +1,116 @@
+body{
+    color: #2D033B;
+    font-family: "Merriweather";
+    /* font : "Merriweather" */
+    text-align: center;
+}
+
+h1{
+    font-size: 5rem;
+}
+h2{ 
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1rem;
+}
+
+.cursive{
+    font-family: 'Sacramento', cursive;
+}
+.container-fluid{
+    padding: 4% 15%;
+}
+
+/* ////////// TITLE ////////// */
+
+#title{
+    background-color: #E5B8F4;
+    text-align: center;
+}
+#title .container-fluid{
+    padding-top: 5%;
+}
+.intro-role{
+    font-family: 'Sacramento', cursive;
+}
+.intro{
+    padding-top: 7%;
+}
+.intro-para{
+    padding-top: 2%;
+}
+
+/* ////////// PROJECT ////////// */
+
+.project-img{
+    width: 90%;
+    padding: 5% 0;
+}
+.project-name{
+    color: #2D033B;
+}
+.project-heading{
+    font-family: 'Sacramento', cursive;
+}
+
+/* ////////// SKILLS ////////// */
+
+#skills{
+    background-color: #E5B8F4;
+}
+.skill-img{
+    padding-top: 5%;
+    width: 25%;
+}
+.skill-name{
+    padding: 2% 0;
+}
+
+/* ////////// GET IN TOUCH ////////// */
+
+#get-in-touch{
+    background-color: white;
+}
+.getintouch-h3{
+    padding-top: 5%;
+}
+.getintouch-p{
+    padding: 2% 0;
+}
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #2D033B;
+    font-size: 10px;
+    background: #C147E9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+} 
+.btn:hover {
+    background: white;
+    text-decoration: none;
+}
+
+
+#footer{
+    background-color: white;
+}
+#footer .container-fluid{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.footer-link{
+    padding: 0 2%;
+}
+.copyright-footer{
+    padding-top: 2%;
+}
+a:link {
+    text-decoration: none;
+}
